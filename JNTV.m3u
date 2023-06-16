@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 ,湖南卫视
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296202.m3u8
+#EXTINF:-1 ,东方卫视
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=04c9b7f2363829a233caf1330e94b423&volcTime=1686975244
+#EXTINF:-1 ,北京卫视
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
+#EXTINF:-1 ,江苏卫视
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
+#EXTINF:-1 ,CCTV-1
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
+#EXTINF:-1 ,CCTV-2
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+#EXTINF:-1 ,CCTV-3
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203802.m3u8
+#EXTINF:-1 ,CCTV-4
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
+#EXTINF:-1 ,CCTV-5
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205102.m3u8
+#EXTINF:-1 ,CCTV-6
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203302.m3u8
+#EXTINF:-1 ,CCTV-7
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510002.m3u8
+#EXTINF:-1 ,CCTV-8
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203902.m3u8
+#EXTINF:-1 ,CCTV-9
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499402.m3u8
+#EXTINF:-1 ,CCTV-10
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203502.m3u8
+#EXTINF:-1 ,CCTV-12
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202602.m3u8
+#EXTINF:-1 ,CCTV-13
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+#EXTINF:-1 ,CCTV-14
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204402.m3u8
+#EXTINF:-1 ,CCTV-15
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205002.m3u8
+#EXTINF:-1 ,山东体育
+http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 ,山东卫视
+https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+#EXTINF:-1 ,山东齐鲁
+http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 ,山东综艺
+http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 ,山东生活
+http://119.164.216.162:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 ,山东文旅
+http://119.164.216.162:9901/tsfile/live/1004_1.m3u8
